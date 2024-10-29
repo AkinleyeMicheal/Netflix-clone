@@ -1,8 +1,18 @@
-# React + Vite
+# Netflix Clone - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Netflix-inspired web application built with React, featuring movie browsing and trailer playback, and powered by The Movie Database (TMDb) API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse and view popular movies and TV shows with data from [TMDb API](https://www.themoviedb.org/documentation/api)
+- Watch trailers for selected movies and shows
+- Responsive design optimized for both desktop and mobile
+- Netflix-style UI with reusable React components
+
+## Technologies Used
+
+This Netflix Clone project utilizes the following technologies and libraries:
+
+- [React](https://reactjs.org/): JavaScript library for building user interfaces
+- [React Router](https://reactrouter.com/): Declarative routing for React applications
+- [TMDb API](https://www.themoviedb.org/documentation/api): Source for movie and TV show data
